@@ -1,3 +1,9 @@
+README
+
+Rodrigo Reyes A01284917
+
+Carrera ITC
+
 #include <stdio.h>
 #include <string>
 #include <iostream>
