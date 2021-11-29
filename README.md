@@ -6,6 +6,24 @@
 
 ![Imagen](imagen.png)
 
+term
+: deffinition
+
+### Mi titulo {custom-id}
+
+- item1
+- item2
+- item3
+
+
+1. item1
+2. item2
+3. item3
+
+
+| Heather | Title |
+| Parograph | Text |
+
 ```cpp
 // Rodrigo Reyes A01284917
 
