@@ -21,9 +21,6 @@ definition
 3. item3
 
 
-| Heather | Title |
-| Paragraph | Text |
-
 | Header | Title |
 | ------------- | ------------- |
 | Paragraph  | Text  |
