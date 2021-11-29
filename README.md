@@ -1,6 +1,7 @@
 README
 
 Rodrigo Reyes A01284917
+patricio ruiz a01721996
 
 Carrera ITC
 
