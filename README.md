@@ -24,6 +24,10 @@ definition
 | Heather | Title |
 | Paragraph | Text |
 
+| Header | Title |
+| ------------- | ------------- |
+| Paragraph  | Text  |
+
 ```cpp
 // Rodrigo Reyes A01284917
 
