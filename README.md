@@ -6,10 +6,10 @@
 
 ![Imagen](imagen.png)
 
-term
-: deffinition
+term : 
+definition
 
-### Mi titulo {custom-id}
+### Titulo de prueba {custom-id}
 
 - item1
 - item2
@@ -22,7 +22,7 @@ term
 
 
 | Heather | Title |
-| Parograph | Text |
+| Paragraph | Text |
 
 ```cpp
 // Rodrigo Reyes A01284917
