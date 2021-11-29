@@ -3,8 +3,7 @@
 # Rodrigo Reyes A01284917 Carrera ITC
 # patricio ruiz a01721996
 
-
-''' c++
+´´´ c++
 #include <stdio.h>
 #include <string>
 #include <iostream>
@@ -172,4 +171,4 @@ int main() {
 
   return 0;
 } 
-'''
+´´´
