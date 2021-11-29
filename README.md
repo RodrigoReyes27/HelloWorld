@@ -2,6 +2,7 @@
 
 # Rodrigo Reyes A01284917 Carrera ITC
 # patricio ruiz a01721996
+# Adrian Cantu A01284748
 
 ![Imagen](imagen.png)
 
