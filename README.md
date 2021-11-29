@@ -1,9 +1,9 @@
-README
+# README
 
-Rodrigo Reyes A01284917
-patricio ruiz a01721996
+# Rodrigo Reyes A01284917 Carrera ITC
+# patricio ruiz a01721996
 
-Carrera ITC
+
 ''' c++
 #include <stdio.h>
 #include <string>
