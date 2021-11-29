@@ -1,9 +1,10 @@
 README
 
-Rodrigo Reyes A01284917
-patricio ruiz a01721996
+# Rodrigo Reyes A01284917 Carrera ITC
 
-Carrera ITC
+# patricio ruiz a01721996
+
+
 
 #include <stdio.h>
 #include <string>
