@@ -3,6 +3,8 @@
 # Rodrigo Reyes A01284917 Carrera ITC
 # patricio ruiz a01721996
 
+![Imagen](imagen.png)
+
 ```cpp
 // Rodrigo Reyes A01284917
 
