@@ -3,7 +3,7 @@
 # Rodrigo Reyes A01284917 Carrera ITC
 # patricio ruiz a01721996
 
-'''c++
+```cpp
 // Rodrigo Reyes A01284917
 
 #include "Episodio.hpp"
@@ -51,4 +51,4 @@ double Episodio::getCalificacion(){
 string Episodio::str(){ 
     return titulo + "," + to_string(temporada) + "," + to_string(calificacion);
 }
-'''
+```
